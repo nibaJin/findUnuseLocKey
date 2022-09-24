@@ -1,0 +1,2 @@
+# findUnuseLocKey
+找出项目中多语言Localizable.strings中无用的key
